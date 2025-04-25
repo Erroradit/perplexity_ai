@@ -1,7 +1,6 @@
 # perplexity_ai
 
-A new Flutter project.
-Here is a concise and clear project description you can use for your GitHub account to describe your Perplexity AI clone built with Flutter and Python:
+This is a repo which is show casing the perplexity clone project that uses Flutter and Python for development along with the use of API integrations.
 
 ---
 
